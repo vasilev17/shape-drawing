@@ -4,7 +4,7 @@ This is a WinForms desktop application that enables the user to draw, edit, move
 
 ## Installation
 
-Run the `"ShapeDrawing.sln"` file.
+Open the `"ShapeDrawing.sln"` file.
 
 ## Usage
 
@@ -16,7 +16,9 @@ Run the `"ShapeDrawing.sln"` file.
 - <b>Move</b> a shape: <b>Left Mouse Button</b> (drag and drop)
 </pre>
 
-*Can also be seen in the* ```Help/About...``` *section*
+
+> [!TIP]
+> *Controls can also be seen in the* ```Help/About...``` *section, within the app*
 
 https://github.com/vasilev17/shape-drawing/assets/70805253/f4b4c7c1-4aa9-44dd-a145-ddd520643652
 
