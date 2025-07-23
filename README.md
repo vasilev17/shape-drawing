@@ -1,4 +1,4 @@
-# Shape Drawing
+# 📐 Shape Drawing
 
 This is a WinForms desktop application that enables the user to draw, edit, move, calculate area, open and save shape drawings.
 
